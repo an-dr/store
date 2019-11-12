@@ -18,10 +18,13 @@ STORE_PATH/YYYYMMDD_hhmmss_file4.zip
 ## Optional
 
 A. Specify environment variable `STORE_PATH` (default is `/STORED`)
+
 B. Add `.PY` to `PathExt` envvar wor Windows
+
 C. Add store location to `PATH`
 
 After this you can use the module as:
+
 `store file1 dir2 file3 file4`
 
 and getting archives at your backup directory
