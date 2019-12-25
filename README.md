@@ -2,7 +2,7 @@
 
 Module to fast create zip-file as backup
 
-[![main](https://www.lucidchart.com/publicSegments/view/4caf2a87-e390-401c-9ec9-502595fc07cd/image.png)]
+![main](https://www.lucidchart.com/publicSegments/view/4caf2a87-e390-401c-9ec9-502595fc07cd/image.png)
 
 ## Using
 
