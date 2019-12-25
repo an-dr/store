@@ -2,6 +2,8 @@
 
 Module to fast create zip-file as backup
 
+[![main](https://www.lucidchart.com/publicSegments/view/4caf2a87-e390-401c-9ec9-502595fc07cd/image.png)]
+
 ## Using
 
 `python store.py file1 dir2 file3 file4`
@@ -19,7 +21,7 @@ STORE_PATH/YYYYMMDD_hhmmss_file4.zip
 
 A. Specify environment variable `STORE_PATH` (default is `/STORED`)
 
-B. Add `.PY` to `PathExt` envvar wor Windows
+B. Add `.PY` to `PathExt` envvar for Windows
 
 C. Add store location to `PATH`
 
