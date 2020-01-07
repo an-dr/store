@@ -30,3 +30,7 @@ After this you can use the module as:
 `store file1 dir2 file3 file4`
 
 and getting archives at your backup directory
+
+## Future dev
+
+All the plans are here: [todo.txt](todo.txt)
